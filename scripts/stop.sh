@@ -1,4 +1,4 @@
 #!/bin/bash
 nomeApp="<APPDEPLOY>"
 
-sudo supervisorctl stop $appdeploy
+sudo supervisorctl stop $nomeApp
