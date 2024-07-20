@@ -4,5 +4,5 @@ cd /appdir
 npm install
 
 sudo supervisord
-sudo supervisorctl start $appdeploy
+sudo supervisorctl start $nomeApp
 
